@@ -1,9 +1,0 @@
-fastapi
-uvicorn[standard]
-pydantic
-google-genai
-python-dotenv
-opensearch-py
-ragas
-langchain-google-genai
-pandas

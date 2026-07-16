@@ -1,7 +1,3 @@
-.env
 raw/
 wiki/
-output/
-processed.json
-__pycache__/
-*.pyc
+.env
